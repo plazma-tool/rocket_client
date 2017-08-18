@@ -1,0 +1,9 @@
+*.swp
+.#*
+TAGS
+.rocket-recents.txt
+# this is a lib, so exclude Cargo.lock
+Cargo.lock
+**/*.rs.bk
+**/auto/
+**/target/

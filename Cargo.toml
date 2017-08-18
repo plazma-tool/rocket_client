@@ -1,0 +1,10 @@
+[package]
+name = "rocket_client"
+version = "0.1.0"
+authors = ["etd <erethedaybreak@gmail.com>"]
+
+[dependencies]
+log = "0.3"
+env_logger = "0.3"
+
+rocket_sync = { path = "../rocket_sync" }

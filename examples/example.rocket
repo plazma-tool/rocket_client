@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rootElement>
+<tracks rows="10000" startRow="0" endRow="10000" rowsPerBeat="8"
+beatsPerMin="125">
+	<track name="group0#track0" folded="0" muteKeyCount="0"
+color="ffb27474">
+		<key row="0" value="0.000000" interpolation="0" />
+		<key row="10" value="1.000000" interpolation="0" />
+		<key row="20" value="2.000000" interpolation="0" />
+		<key row="30" value="3.000000" interpolation="0" />
+		<key row="40" value="4.000000" interpolation="0" />
+		<key row="50" value="5.000000" interpolation="0" />
+		<key row="60" value="6.000000" interpolation="0" />
+		<key row="70" value="7.000000" interpolation="0" />
+		<key row="80" value="8.000000" interpolation="0" />
+		<key row="90" value="9.000000" interpolation="0" />
+		<key row="100" value="10.000000" interpolation="0" />
+	</track>
+	<track name="group0#track1" folded="0" muteKeyCount="0"
+color="ffb28050">
+		<key row="5" value="1.500000" interpolation="2" />
+		<key row="16" value="11.210000" interpolation="3" />
+		<key row="26" value="-3.400000" interpolation="2" />
+		<key row="34" value="0.000000" interpolation="0" />
+		<key row="56" value="5.000000" interpolation="0" />
+	</track>
+	<track name="group0#track2" folded="0" muteKeyCount="0"
+color="ffa9b250">
+		<key row="0" value="1.000000" interpolation="0" />
+	</track>
+	<track name="group1#track0" folded="0" muteKeyCount="0"
+color="ff60b250">
+		<key row="0" value="0.000000" interpolation="0" />
+	</track>
+	<track name="group1#track1" folded="0" muteKeyCount="0"
+color="ff4fb292">
+		<key row="0" value="-5.500000" interpolation="3" />
+		<key row="25" value="15.000000" interpolation="2" />
+		<key row="100" value="20.000000" interpolation="0" />
+	</track>
+	<track name="group1#track2" folded="0" muteKeyCount="0"
+color="ff4f71b2">
+		<key row="0" value="100.000000" interpolation="1" />
+		<key row="100" value="0.000000" interpolation="0" />
+	</track>
+</tracks>
+	</rootElement>
