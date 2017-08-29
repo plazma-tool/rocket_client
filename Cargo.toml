@@ -2,9 +2,15 @@
 name = "rocket_client"
 version = "0.1.0"
 authors = ["etd <erethedaybreak@gmail.com>"]
+license = "MIT"
+description = """
+A client library for the GNU Rocket Editor.
+"""
+repository = "https://github.com/make-a-demo-tool-in-rust/rocket_client"
+readme = "README.md"
 
 [dependencies]
 log = "0.3"
 env_logger = "0.3"
 
-rocket_sync = { git = "https://github.com/make-a-demo-tool-in-rust/rocket_sync" }
+rocket_sync = "0.1.0"
