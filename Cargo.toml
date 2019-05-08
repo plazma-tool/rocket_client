@@ -1,16 +1,17 @@
 [package]
 name = "rocket_client"
-version = "0.1.0"
-authors = ["etd <erethedaybreak@gmail.com>"]
+version = "0.1.1"
+authors = ["Gambhiro <gambhiro.bhikkhu.85@gmail.com>"]
+edition = "2018"
 license = "MIT"
 description = """
 A client library for the GNU Rocket Editor.
 """
-repository = "https://github.com/make-a-demo-tool-in-rust/rocket_client"
+repository = "https://github.com/plazma-tool/rocket_client"
 readme = "README.md"
 
 [dependencies]
 log = "0.3"
 env_logger = "0.3"
 
-rocket_sync = "0.1.0"
+rocket_sync = "0.1.1"

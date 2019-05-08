@@ -7,7 +7,7 @@ Note that the [rocket_sync] lib is also necessary, which gives you the value of
 a sync track at a given time.
 
 [rocket]: https://github.com/emoon/rocket
-[rocket_sync]: https://github.com/make-a-demo-tool-in-rust/rocket_sync
+[rocket_sync]: https://github.com/plazma-tool/rocket_sync
 
 ## Getting Started
 
