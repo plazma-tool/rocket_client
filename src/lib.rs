@@ -228,7 +228,7 @@ impl SyncClient {
             return Err(Box::new(SyncError::NoTracks));
         }
 
-        if track_idx > device.tracks.len() {
+        if track_idx >= device.tracks.len() {
             return Err(Box::new(SyncError::TrackNotFound));
         }
 
@@ -259,7 +259,7 @@ impl SyncClient {
             return Err(Box::new(SyncError::NoTracks));
         }
 
-        if track_idx > device.tracks.len() {
+        if track_idx >= device.tracks.len() {
             return Err(Box::new(SyncError::TrackNotFound));
         }
 

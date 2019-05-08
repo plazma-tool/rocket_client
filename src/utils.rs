@@ -1,6 +1,6 @@
 use std::mem;
 
-use SyncCmd;
+use crate::SyncCmd;
 
 pub fn cmd_to_code(cmd: &SyncCmd) -> u8 {
     use self::SyncCmd::*;
